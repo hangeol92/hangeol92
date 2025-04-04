@@ -1,28 +1,26 @@
-
-
-
-<!--
-**hangeol92/hangeol92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## Hi there 👋
-## 📫 How to reach me: jhg0717@gmail.com
-## ⚡ Fun fact: Trilingual (Korean, Japanese, English)
-
--->
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-Welcome to my GitHub!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub! I'm Hangeol Jeong
 
-# Han.G GitHub
+<p align="center">
+You have stayed on my page for:
+</p>
+
+<p align="center">
+<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+</p>
+
+<div align="center">
+
+
+## Github stats:
+
+<p align="center">
+<a href="https://github.com/hangeol92">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hangeol92&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hangeol92&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+</p>
 
 ﹏﹏﹏﹏﹏﹏﹏
 
@@ -62,9 +60,17 @@ Welcome to my GitHub!
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
+<br>
+
 #### 📫 How to Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jhg0717@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hangeol-jeong-842062175/)
+<a href="mailto:jhg0717@gmail.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/hangeol-jeong-842062175/" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+
+
 
 </div>
 
