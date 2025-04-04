@@ -16,17 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Hi there 👋
 ## 📫 How to reach me: jhg0717@gmail.com
-## 😄 Pronouns: Han
 ## ⚡ Fun fact: Trilingual (Korean, Japanese, English)
 
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+Welcome to my GitHub!
+## 📫 How to Contact Me
 
 <div align="center">
 
-# My Project Name
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jhg0717@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hangeol-jeong-842062175/)
 
-[![Homepage](https://img.shields.io/badge/Dev's-Home-d14836?style=flat-square&logo=Home&logoColor=white&link=https://jsontype.github.io/jsontype)](https://jsontype.github.io/jsontype)
+</div>
+<div align="center">
+
+# Han.G GitHub
 
 ﹏﹏﹏﹏﹏﹏﹏
 
