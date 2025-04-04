@@ -1,4 +1,9 @@
 ## Hi there 👋
+## 📫 How to reach me: jhg0717@gmail.com
+## 😄 Pronouns: Han
+## ⚡ Fun fact: Trilingual (Korean, Japanese, English)
+
+
 
 <!--
 **hangeol92/hangeol92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
