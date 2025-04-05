@@ -98,8 +98,8 @@ Prettier, ESLint, Yarn, VSCode
 
 ## 🚀 Live Demo
 
-Add a link to your deployed project here.
-
+[Add a link to your deployed project here.
+](https://general-next-1-op9d.vercel.app/)
 ---
 
 ## 💻 Getting Started
